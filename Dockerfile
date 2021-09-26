@@ -32,7 +32,7 @@ RUN conda install numpy pandas pillow scikit-image
 RUN pip install pdf2image pytesseract streamlit
 
 # copy application code
-COPY vizeract.py test.pdf /home/tesseract/
+COPY vizeract.py sample_doc.pdf /home/tesseract/
 
 # expose application port
 EXPOSE 80
