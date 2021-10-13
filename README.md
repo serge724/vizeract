@@ -8,6 +8,9 @@ Tesseract is one of the most popular, open source OCR engines. However, it's app
 
 Vizeract provides a lightweight web app for running Tesseract on arbitrary PDF documents with different settings and visualizing the results.
 
+## Demo
+Have a look at the demo instance [here](https://bit.ly/3COqxqO).
+
 ## Getting started
 Vizeract can be easily built and hosted in a Docker container. The setup was tested with Docker version 20.10.8.
 
