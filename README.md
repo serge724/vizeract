@@ -1,7 +1,7 @@
 # vizeract
 A simple app for visualizing output from the Tesseract OCR engine.
 
-![screenshot](https://i.ibb.co/Tbxf9sv/vizeract-screenshot.png)
+![screenshot](https://github.com/serge724/vizeract/blob/main/vizeract_screenshot.png)
 
 ## Background
 Tesseract is one of the most popular, open source OCR engines. However, it's application can be rather complicated for inexperienced users. In particular, there is no build-in functionality to visualize the output bounding boxes for the identified words. Additionally, it is difficult to guess, which settings for the OCR Engine Mode (OEM) and the Page Segmentation Mode (PSM) will produce the best results.
